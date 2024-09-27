@@ -1,6 +1,6 @@
 /* Copyright (c) 2024 MTHS All rights reserved
  *
- * Created by: Benjamin
+ * Created by: Benjamin Abebe
  * Created on: Sep 2024
  * This program turns an LED on a breadboard on and off.
 */
